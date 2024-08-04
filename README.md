@@ -3,7 +3,7 @@ Projects I worked on while attending the BI Analytics TripleTen Bootcamp
 
 | Project Number	| Title	| Description
 | :-----------: | ----------- | ----------- |
-| 1 | Superstore Data Visualization Project | Analyzed superstore operations to increase profitability, evaluate advertising strategies, and examine product return rates. <br> **Tech Used:** Excel, Tableau |
+| 1 | Superstore Data Visualization Project | Analyzed superstore operations to increase profitability, evaluate advertising strategies, and examine product return rates. <br> |
 | 2 | Storytelling with Data: Superstore | Analyzed high return rates at the Superstore and recommended strategies to reduce returns. Created a dashboard and presentation for the CEO, illustrating key findings. <br> **Tech Used:** Tableau |
 | 3 | E-Commerce User Activity Analysis | Built a conversion funnel and performed cohort analysis to provide insights into user behavior and site performance. <br> **Tech Used:** Excel, SQL, Power BI |
 | 4 | Zuber Ride-Sharing Data Analysis | Analyzed ride-sharing data to uncover passenger preferences and the impact of weather on ride frequency. <br> **Tech Used:** Excel, SQL, Tableau |
